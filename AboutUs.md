@@ -21,7 +21,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 |  [Jay Gendron](#jay-gendron)  |  Oliver Lee  |  Ben Price  |  Malachi Tatum  |  |
 
 ## The Template
-#### _{CompSci Track or Math Track} ({office name})_
+#### _{Computer Science Track or Math Track} ({office name})_
 * _Skills I can offer the team:_ {share those skills you already possess that you would be willing to assist others in developing}
 
 * _Skill I am improving:_ {share the area that you would most like to enhance during the Tech Tank Program}
@@ -31,7 +31,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 * _Favorite Quote:_ {What is your favorite quote?} [top](#members)
 
 ## Jay Gendron
-#### _CompSci Track (Norfolk Office)_
+#### _Computer Science Track (Norfolk Office)_
 
 * _Skills I can offer the team:_ using R and Python, Natural Language Processing, text analytics, machine learning, statistics, public speaking and presentations, visualization, and leading teams
 
