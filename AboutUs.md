@@ -43,5 +43,5 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _Favorite Quote:_ [The Man in the Arena](images/the-man-in-the-arena.jpg) by President Theodore Roosevelt.  
 
-* _Contact Information (optional):_ gerald.gendron@gmail.com; @jaygendron; (757) 372-5746 [top](#members)
+* _Contact Information:_ gerald.gendron@gmail.com; @jaygendron; (757) 372-5746 [top](#members)
 
