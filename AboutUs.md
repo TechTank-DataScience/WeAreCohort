@@ -28,7 +28,9 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _During Tech Tank, I want to..._ {share your dreams, your expectations, or your vision for your time in the Data Science cohort}
 
-* _Favorite Quote:_ {What is your favorite quote?} [top](#members)
+* _Favorite Quote:_ {What is your favorite quote?} 
+
+* _Contact Information (optional):_ {please share what you are comforatble with...this is a public repo} [top](#members)
 
 ## Jay Gendron
 #### _Computer Science Track (Norfolk Office)_
@@ -39,7 +41,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _During Tech Tank, I want to..._ network with team mates and mentors, establishing my future project load in data science engagements having a more classic management consulting role
 
-* _Favorite Quote:_ [The Man in the Arena](images/the-man-in-the-arena.jpg) by President Theodore Roosevelt.  [top](#members)
+* _Favorite Quote:_ [The Man in the Arena](images/the-man-in-the-arena.jpg) by President Theodore Roosevelt.  
 
-
+* _Contact Information (optional):_ gerald.gendron@gmail.com; @jaygendron; (757) 372-5746 [top](#members)
 
