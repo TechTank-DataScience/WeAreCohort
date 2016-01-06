@@ -13,9 +13,9 @@ Note: Steps 1 and 2 are done once.  Most development will be a cycle of steps 3-
 
 ####One time activities In Pull-Request workflow process:
 
-**Fork Main Repo:**  This is done on github.com.  When signed in as yourself, you then navigate to the appropriate repo, click on fork.  A copy of the repo will now be in your account.
+**Fork Main Repo:**  This is done on github.com.  When signed in as yourself, you then navigate to the appropriate repo, click on fork.  A copy of the repo will now be in your account. Good job - done!
 
-**Clone Repo:**  This will bring your copy of the repo down to your machine.
+**Clone Repo:**  This will bring your copy of the repo down to your machine. Congratulations!
 
 	git clone https://github.com/[your github username]/WeAreCohort.git.
 
@@ -26,14 +26,16 @@ Note: Steps 1 and 2 are done once.  Most development will be a cycle of steps 3-
 
 ####Common Commands During Feature Creation
 
-**Create a Feature Branch (Optional – default branch is master, which is fine to develop on):** This creates a branch from your currently checked out branch
+**Create a Feature Branch (Optional – default branch is master, which is fine to develop on):** This creates a branch `feature1` from your currently checked out branch
+
 	git checkout -b feature1
 
-**Fetch changes from Main Repo (upstream):** This gets the changes and puts it on your local machine in a branch called upstream/master
+**Fetch changes from Main Repo (upstream):** This gets the changes and puts it on your local machine in a branch called `upstream/master`
 
 	git fetch upstream
 
-**Merge changes from one branch to another:** This merges changes from one branch with another branch.  The example merges changes from the Main Repo with the feature1 branch
+**Merge changes from one branch to another:** This merges changes from one branch with another branch.  The example merges changes from the Main Repo with the `feature1` branch
+
 	git checkout feature1
 	git merge upstream/master
 
@@ -49,6 +51,7 @@ Note: Steps 1 and 2 are done once.  Most development will be a cycle of steps 3-
 4.	Add comments and create the new pull requests
 
 **Merge Pull Request on the Main Repo:**  This is the final step for putting changes into the main Repo.  If possible, the person accepting the merge request on the main repo should not be the person who is making the pull request.  This way all of the code will have a chance of getting reviewed before being committed to the main repo.
+
 1.	go to the Main Repo on github
 2.	click pull requests
 3.	if the changes look good go merge and close the commit
