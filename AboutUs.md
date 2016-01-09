@@ -20,6 +20,10 @@ Tech Tank Data Science Cohort (Class of 2016)
 |  Ylonda Fauntleroy  |  Kristof Ladny  |  Steven Nutt  |  [Julia Stevens](#julia-stevens)  |  |
 |  [Jay Gendron](#jay-gendron)  |  Oliver Lee  |  Ben Price  |  Malachi Tatum  |  |
 
+|*Friends* |  |  |  |  |
+| ---- | ---- | ---- | ---- | ---- |
+|  Michael Lee  |    |    |    |    |
+
 ## The Template
 #### _{Computer Science Track or Math Track ... pick one} ({office name})_
 * _Skills I can offer the team:_ {share those skills you already possess that you would be willing to assist others in developing}
