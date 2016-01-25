@@ -70,3 +70,15 @@ Tech Tank Data Science Cohort (Class of 2016)
 * _Favorite Quote:_ "The most dangerous phrase in the language is, 'We've always done it this way.'" - Grace Hopper 
 
 * _Contact Information (optional):_ stevens_julia@bah.com; (410) 570-4875 [back to [top](#members)]
+
+## Kristof Ladny
+#### _Computer Science Track (NBP)_
+* _Skills I can offer the team:_ Python, Scala, Spark, HTML/CSS, Javascript, SQL
+
+* _Skills I am improving:_ R, Hadoop, machine learning, linear algebra 
+
+* _During Tech Tank, I want to..._ meet the great people in this program and continue to build my skillset especially as it applies to cyber security.
+
+* _Favorite Quote:_ “Through concentration, I can raise and lower my cholesterol at will.” - Dwight Schrute
+
+* _Contact Information (optional):_ ladny_kristof@bah.com; (703) 377-2122 [back to [top](#members)]
