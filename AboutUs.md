@@ -72,7 +72,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 * _Contact Information (optional):_ stevens_julia@bah.com; (410) 570-4875 [back to [top](#members)]
 
 ## Kristof Ladny
-#### _Computer Science Track (NBP)_
+#### _Computer Science Track (McLean)_
 * _Skills I can offer the team:_ Python, Scala, Spark, HTML/CSS, Javascript, SQL
 
 * _Skills I am improving:_ R, Hadoop, machine learning, linear algebra 
