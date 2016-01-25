@@ -17,7 +17,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 |  Dave Babbitt  |  [Justin Hoffman](#justin-hoffman)  |  Kenneth MacDonald  |  KirstiRiehle  |  Elias White  |
 |  Matthew Brown  |  Ben Huber  |  Jamie Martin  |  Chelsea Ross  |  Scott Woolley  |
 |  Simon Coplan  |  Michael Kim  |  Alexander Newton  |  Stephanie Severe  |  Michael Young  |
-|  Ylonda Fauntleroy  |  Kristof Ladny  |  Steven Nutt  |  [Julia Stevens](#julia-stevens)  |  |
+|  Ylonda Fauntleroy  |  [Kristof Ladny](#kristof-ladny)  |  Steven Nutt  |  [Julia Stevens](#julia-stevens)  |  |
 |  [Jay Gendron](#jay-gendron)  |  Oliver Lee  |  Ben Price  |  Malachi Tatum  |  |
 
 |*Friends* |  |  |  |  |
@@ -59,18 +59,6 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _Favorite Quote:_  Do not go where the path may lead...go instead where there is no path and leave a trail - Emerson [back to [top](#members)]
 
-## Julia Stevens
-#### _Computer Science Track (NBP)_
-* _Skills I can offer the team:_ Java, Python, general computer science
-
-* _Skills I am improving:_ R, Hadoop ecosystem, Spark, machine learning, building predictive models. 
-
-* _During Tech Tank, I want to..._ continue to build my network within Booz Allen; gain more real world experience with data science and be able to apply those skills to future projects.
-
-* _Favorite Quote:_ "The most dangerous phrase in the language is, 'We've always done it this way.'" - Grace Hopper 
-
-* _Contact Information (optional):_ stevens_julia@bah.com; (410) 570-4875 [back to [top](#members)]
-
 ## Kristof Ladny
 #### _Computer Science Track (NBP)_
 * _Skills I can offer the team:_ Python, Scala, Spark, HTML/CSS, Javascript, SQL
@@ -81,4 +69,18 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _Favorite Quote:_ “Through concentration, I can raise and lower my cholesterol at will.” - Dwight Schrute
 
-* _Contact Information (optional):_ ladny_kristof@bah.com; (703) 377-2122 [back to [top](#members)]
+* _Contact Information:_ ladny_kristof@bah.com; (703) 377-2122 [back to [top](#members)]
+
+## Julia Stevens
+#### _Computer Science Track (NBP)_
+* _Skills I can offer the team:_ Java, Python, general computer science
+
+* _Skills I am improving:_ R, Hadoop ecosystem, Spark, machine learning, building predictive models. 
+
+* _During Tech Tank, I want to..._ continue to build my network within Booz Allen; gain more real world experience with data science and be able to apply those skills to future projects.
+
+* _Favorite Quote:_ "The most dangerous phrase in the language is, 'We've always done it this way.'" - Grace Hopper 
+
+* _Contact Information:_ stevens_julia@bah.com; (410) 570-4875 [back to [top](#members)]
+
+
